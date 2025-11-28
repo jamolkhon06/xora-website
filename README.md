@@ -1,9 +1,5 @@
 # Xora Website created by Jamolkhon
 
-## 🚀 Overview
-
-A more detailed paragraph about what this project is, what problem it solves, and its main goal.
-
 ## ✨ Features
 
 -   Fast and optimized builds with Vite
